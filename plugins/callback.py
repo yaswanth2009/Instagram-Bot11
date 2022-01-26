@@ -54,12 +54,12 @@ async def cb_handler(bot: Client, query: CallbackQuery):
 			[
 				[
 					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-					InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
-                    InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+					InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1"),
+                    InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Greymatter_bots")
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+					InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
+					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
 				]
 			]
 			)
