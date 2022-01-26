@@ -48,8 +48,7 @@ async def start(bot, cmd):
 					],
                     [
                         InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot"),
-                        InlinekeyboardButtom("Bot Owner", url="https://t.me/moksh_b658")
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
@@ -71,8 +70,7 @@ async def start(bot, cmd):
 						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1"),
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-                        InlinekeyboardButtom("Bot Owner", url="https://t.me/moksh_b658")
+                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
@@ -100,8 +98,7 @@ async def help(bot, cmd):
 				],
 				[
 					InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot"),
-                                        InlinekeyboardButtom("Bot Owner", url="https://t.me/moksh_b658")
+					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
 				]
 			]
 			)
