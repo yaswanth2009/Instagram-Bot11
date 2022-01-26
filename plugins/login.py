@@ -53,8 +53,7 @@ async def login(bot, message):
 						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
                     ],
                     [
-                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButtom("Bot Owner",url="https://t.me/moksh_b658")
+                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
 
                     ]
 					
@@ -182,8 +181,7 @@ async def logout(bot, message):
 						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
                     ],
                     [
-                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButtom("Bot Owner",url="https://t.me/moksh_b658")
+                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
 
                     ]
 					
