@@ -70,9 +70,9 @@ Example: /followers samantharuthprabhuoffl
 ```
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot)
 
-Watch This [Video](https://youtu.be/aVkmoVPSOYI) Tutorial For Better Understanding.
+Watch This [Video](https://youtu.be/p6kX1lQlIWw) Tutorial For Better Understanding.
 
 While Deploying fill `INSTA_SESSIONFILE_ID`, either by running [generate_instagram_session.py](https://github.com/subinps/Instagram-Bot/blob/main/generate_instagram_session.py]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@subinps/generateInstagramSession)
 
@@ -82,7 +82,7 @@ For Generating Session after deployment, You Must leave the Variable as blank an
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/Instagram-Bot
+git clone https://github.com/GreyMatter658/Instagram-Bot
 cd Instagram-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -119,3 +119,7 @@ Developer or his team won't be liable for any loss caused by MISUSE of this Scri
 This Bot is Indended to be used only for Educational Purposes.
 
 ```
+
+### Original Repo Owner - https://github.com/subinps
+
+All Thanks to him for his Great work🙏
